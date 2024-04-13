@@ -1,0 +1,23 @@
+h1{
+	color: rgb(32, 32, 31);
+	text-shadow: 25px 6px 17px #00cf06;
+}
+h2{
+     color: rgb(245, 214, 47);
+	background: #2FAAF5;
+	text-align: left;
+}
+p{
+font-style: italic; 
+font-weight: bold;
+font-family: cursive;
+
+}
+.htmlparagraph{
+	background: #FBFEAA;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	
+}
